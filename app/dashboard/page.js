@@ -39,7 +39,7 @@ export default async function DashboardPage() {
   }
 
   const model = "minimax/minimax-m3";
-  const repoUrl = "https://github.com/tiennm99/llmapikey";
+  const repoUrl = "https://github.com/tiennm99dev/llmapikey";
 
   return (
     <main>

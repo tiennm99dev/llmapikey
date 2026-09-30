@@ -10,7 +10,7 @@ export const dynamic = "force-dynamic";
  * inline (not separate components) per the "inline static copy" rule.
  */
 export default function HomePage() {
-  const repoUrl = "https://github.com/tiennm99/llmapikey";
+  const repoUrl = "https://github.com/tiennm99dev/llmapikey";
   const model = "minimax/minimax-m3";
   const projectLive = isProjectLive();
 
